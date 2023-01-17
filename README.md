@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm [Yang Jian](https://github.com/hanson-young)👋
 
-<a href="https://github.com/hanson-young">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=hanson-young&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/hanson-young">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanson-young&hide=html" />
-</a>
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=hanson-young&show_icons=true&theme=dark"
